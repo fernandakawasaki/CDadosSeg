@@ -1,6 +1,8 @@
 # Trabalho prático 2 - Parte 2
 
 ## Entradas esperadas
+**É necessário que o módulo pefile seja instalado (https://github.com/erocarrera/pefile)**
+
 ### Script ```sections.py``` - Extrair seções executáveis
 Espera-se que o usuário forneça um diretório ou o nome de um arquivo. A chamada do script é feita da seguinte forma:
 
